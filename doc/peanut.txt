@@ -1,6 +1,5 @@
 Peanut
 
-https://github.com/dzenanr/order/issues/1
 https://github.com/kevmoo/peanut.dart
 http://www.dartdocs.org/documentation/peanut/0.0.1+1/index.html#peanut
 
@@ -40,15 +39,14 @@ C:\Users\ridjanod.FSA-RIDJANOD-2\darteditor-windows-x64\dart\dart-sdk\bin
 
 Then I have activated peanut:
 
-cd C:\Users\ridjanod.FSA-RIDJANOD-2\dart\game\order
-cd C:\Users\ridjanod.FSA-RIDJANOD-2\dart\game\order>pub global activate
-peanut
+cd C:\Users\ridjanod.FSA-RIDJANOD-2\dart\game\tint
+cd C:\Users\ridjanod.FSA-RIDJANOD-2\dart\game\tint>pub global activate peanut
 
 Finally I run peanut:
 
-C:\Users\ridjanod.FSA-RIDJANOD-2\dart\game\order>peanut
+C:\Users\ridjanod.FSA-RIDJANOD-2\dart\game\tint>peanut
 
-Folow based on https://pub.dartlang.org/packages/peanut:
+Follow based on https://pub.dartlang.org/packages/peanut:
 
 git update-ref refs/heads/gh-pages origin/gh-pages
 
