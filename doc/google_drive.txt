@@ -1,0 +1,27 @@
+Google Drive
+
+learningdart
+  app
+    tint
+
+    copy tint/build/web content from the tint project to the tint folder at Google Drive
+
+learningdart
+  app
+    tint
+      packages
+      favicon.ico
+      index.css
+      index.dart.js
+      index.html
+
+update learningdart/index.html
+
+  close to the end find
+  <li id="Applications" class="nav-header">Applications</li>
+
+  add
+  <li><a href="app/tint">Tint</a></li>
+
+play the Tint game at http://learningdart.org/ (in the right column: Applications/Tint)
+
