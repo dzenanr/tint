@@ -4,3 +4,9 @@ https://pages.github.com/
 https://help.github.com/categories/github-pages-basics/
 http://dzenanr.github.io/tint/
 
+git checkout gh-pages
+
++ make changes, add, commit, push
+
+git checkout master
+
