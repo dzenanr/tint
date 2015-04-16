@@ -1,4 +1,4 @@
-# Order
+# Tint
 
       The goal of the game is to get a high score by
       spotting a different tile and clicking on it...
