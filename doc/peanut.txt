@@ -48,3 +48,9 @@ Finally I run peanut:
 
 C:\Users\ridjanod.FSA-RIDJANOD-2\dart\game\order>peanut
 
+Folow based on https://pub.dartlang.org/packages/peanut:
+
+git update-ref refs/heads/gh-pages origin/gh-pages
+
+
+
